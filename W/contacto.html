@@ -12,6 +12,13 @@
             background-color: #d1d8e0;
             margin: 0;
             font-family: 'Courier New', Courier, monospace;
+            /* Transición suave para el fondo de la página */
+            transition: background-color 0.6s ease;
+        }
+
+        /* El fondo reacciona cuando interactúas con la caja de contacto */
+        body:has(.contacto-box:hover) {
+            background-color: #c0c9d3;
         }
 
         .contacto-box {
@@ -20,6 +27,14 @@
             width: 350px;
             padding: 0;
             overflow: hidden;
+            /* Sombra sólida roja que combina con el tema */
+            box-shadow: 8px 8px 0px rgba(220, 20, 60, 0.4);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .contacto-box:hover {
+            transform: scale(1.02);
+            box-shadow: 12px 12px 0px crimson;
         }
 
         .barra-superior {
@@ -29,6 +44,12 @@
             font-size: 12px;
             display: flex;
             justify-content: space-between;
+            transition: background 0.3s;
+        }
+
+        /* La barra superior se ilumina en rojo al pasar el cursor por la caja */
+        .contacto-box:hover .barra-superior {
+            background: crimson;
         }
 
         .contenido-contacto {
@@ -42,12 +63,24 @@
             border-radius: 50%;
             border: 2px solid black;
             margin-bottom: 15px;
+            transition: transform 0.5s ease;
+        }
+
+        .contacto-box:hover img {
+            transform: rotate(5deg);
         }
 
         .email {
             font-weight: bold;
-            background: #ffffcc; /* Efecto resaltador */
+            background: #ffffcc;
             padding: 5px;
+            border: 1px dashed transparent;
+            transition: 0.3s;
+        }
+
+        .contacto-box:hover .email {
+            border-color: crimson;
+            background: #fff0f0;
         }
 
         .links-nav {
@@ -58,12 +91,33 @@
 
         .links-nav a {
             text-decoration: none;
-            color: blue;
+            color: black; /* Cambiado a negro para que el rojo destaque más */
             font-size: 14px;
             margin: 0 10px;
+            padding: 5px 10px;
+            border: 1px solid transparent;
+            transition: all 0.3s ease;
+            display: inline-block;
         }
 
-        .links-nav a:hover { text-decoration: underline; }
+        /* --- ANIMACIÓN VIBRANTE EN ROJO --- */
+        @keyframes vibrante-rojo {
+            0% { background-color: crimson; }
+            50% { background-color: #ff4d4d; }
+            100% { background-color: #b30000; }
+        }
+
+        .links-nav a:hover {
+            color: white;
+            transform: translateY(-3px);
+            animation: vibrante-rojo 1s infinite alternate;
+            box-shadow: 0 5px 10px rgba(220, 20, 60, 0.3);
+            border-color: black;
+        }
+
+        .links-nav a:active {
+            transform: translateY(0);
+        }
     </style>
 </head>
 <body>
