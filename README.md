@@ -3,6 +3,8 @@
 
 #### Cultura web y arte digital.
 
+#### UNIDAD I
+
 Ejercicio 1, semana 1:
 
 ```js
@@ -76,6 +78,10 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 
 ```
+### Mi primera página web
+
+Index:
+
 ```js
 <!DOCTYPE html>
 <html lang="es">
@@ -191,6 +197,10 @@ MULTIMEDIAL
 
 </body>
 </html>
+```
+Obras:
+
+```js
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -463,6 +473,8 @@ MULTIMEDIAL
 </body>
 </html>
 ```
+Contacto:
+
 ```js
 <!DOCTYPE html>
 <html lang="es">
