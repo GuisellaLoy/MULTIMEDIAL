@@ -630,7 +630,6 @@ Contacto:
 
 - Carpeta 2: [Experimentación](https://drive.google.com/drive/folders/1uITbzPT7acqZKZbtXDkI69XUZxU-1WL3)
 
-- Demostración
-(https://drive.google.com/drive/folders/1uITbzPT7acqZKZbtXDkI69XUZxU-1WL3) 
+- Carpeta 3: [Video ejemplo](https://drive.google.com/drive/folders/1uITbzPT7acqZKZbtXDkI69XUZxU-1WL3) 
 
 
