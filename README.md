@@ -623,7 +623,7 @@ Contacto:
 ### Unidad II. [Programación visual creativa basada en nodos]II: 
 ### Programación visual creativa basada en nodos. 
 
-#### Proceso
+#### PROCESO
 
 Bocetos previos:
 
