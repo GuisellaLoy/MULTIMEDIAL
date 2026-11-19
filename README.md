@@ -76,4 +76,118 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 
 ```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Digital Media - Inicio</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            /* Transición suave para el color de fondo */
+            background-color: #e0e5ec; 
+            font-family: 'Courier New', Courier, monospace;
+            transition: background-color 0.8s ease;
+        }
+
+        /* Cambia el fondo de la página cuando pasas el mouse por la ventana */
+        body:has(.ventana-principal:hover) {
+            background-color: #d1d9e6;
+        }
+
+        .ventana-principal {
+            background-color: white;
+            border: 2px solid #333;
+            box-shadow: 8px 8px 0px SteelBlue; 
+            padding: 40px;
+            max-width: 500px;
+            text-align: center;
+            transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .ventana-principal:hover {
+            transform: scale(1.01);
+            box-shadow: 12px 12px 0px #4682B4;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #2d3436;
+            border-bottom: 2px solid SteelBlue;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .perfil-img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            border: 1px solid #333;
+            margin-bottom: 20px;
+            /* Imagen limpia, sin filtros de color */
+        }
+
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 10px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+            padding: 12px 25px;
+            border: 2px solid #333;
+            background-color: white;
+            position: relative;
+            z-index: 1;
+            transition: all 0.3s ease;
+            overflow: hidden;
+        }
+
+        /* --- ANIMACIÓN VIBRANTE DE COLOR --- */
+        @keyframes vibrante {
+            0% { background-color: #4682B4; border-color: #333; }
+            33% { background-color: #00ced1; border-color: #00ced1; }
+            66% { background-color: #1e90ff; border-color: #1e90ff; }
+            100% { background-color: #4682B4; border-color: #333; }
+        }
+
+        .nav-links a:hover {
+            color: white;
+            transform: translateY(-5px);
+            /* Aplicamos la animación cíclica al hover */
+            animation: vibrante 1.5s infinite linear;
+            box-shadow: 0 10px 20px rgba(70, 130, 180, 0.3);
+        }
+
+        .nav-links a:active {
+            transform: translateY(0);
+            box-shadow: none;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="ventana-principal">
+        <h1>DIGITAL MEDIA</h1>
+        <img src="img/inicio.jpg" alt="Inicio" class="perfil-img">
+        
+        <div class="nav-links">
+            <a href="obras.html">OBRAS</a>
+            <a href="contacto.html">CONTACTO</a>
+        </div>
+    </div>
+
+</body>
+</html>
 
