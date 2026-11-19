@@ -76,6 +76,7 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 
 ```
+```js
 <!DOCTYPE html>
 <html lang="es">
 <head>
