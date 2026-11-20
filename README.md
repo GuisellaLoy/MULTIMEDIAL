@@ -621,7 +621,7 @@ Contacto:
 </html>
 
 Index:
-![Boceto previo](img/IMG_2754.png)
+![Boceto previo](img/IMG_2897.jpeg)
 
 Obras:
 ![Boceto previo](img/IMG_2899.jpeg)
