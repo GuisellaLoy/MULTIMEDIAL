@@ -627,7 +627,7 @@ Obras:
 ![Boceto previo](img/IMG_2755.png)
 
 Contacto
-![Boceto previo](img/IMG_2754.png)
+![Boceto previo](img/IMG_2900.jpeg)
 
 - PÁGINA WEB: [¡¡¡Para una mejor experiencia!!!](https://GuisellaLoy.github.io/MULTIMEDIAL/W/index.html) 
 
