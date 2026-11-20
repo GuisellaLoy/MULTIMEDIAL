@@ -619,6 +619,17 @@ Contacto:
 
 </body>
 </html>
+
+Index:
+![Boceto previo](img/IMG_2754.png)
+
+Obras:
+![Boceto previo](img/IMG_2755.png)
+
+Contacto
+![Boceto previo](img/IMG_2754.png)
+
+
 ```
 ### Unidad II. [Programación visual creativa basada en nodos]II: 
 ### Programación visual creativa basada en nodos. 
