@@ -6,7 +6,7 @@
 #### INDICE
 
 1. [UNIDAD I](#unidad-i)
-2. [Mi primera página web]( #mi-primera-pagina-web)
+2. [Mi primera página web](#mi-primera-pagina-web)
 3. [Link página web](#página-web)
 4. [UNIDAD II](#unidad-ii)
 5. [ENTREGA](#entrega)
