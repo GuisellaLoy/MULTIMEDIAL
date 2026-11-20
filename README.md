@@ -627,6 +627,7 @@ Contacto:
 
 Bocetos previos:
 
+![Boceto previo](Img/nombre-de-tu-foto.jpg)
 
 
 #### ENTREGA
