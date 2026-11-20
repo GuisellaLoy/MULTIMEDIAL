@@ -624,7 +624,7 @@ Index:
 ![Boceto previo](img/IMG_2754.png)
 
 Obras:
-![Boceto previo](img/IMG_2755.png)
+![Boceto previo](img/IMG_2899.jpeg)
 
 Contacto
 ![Boceto previo](img/IMG_2900.jpeg)
