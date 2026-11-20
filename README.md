@@ -627,7 +627,7 @@ Index:
 Obras:
 ![Boceto previo](img/IMG_2899.jpeg)
 
-Contacto
+Contacto:
 ![Boceto previo](img/IMG_2900.jpeg)
 
 - PÁGINA WEB: [¡¡¡Para una mejor experiencia!!!](https://GuisellaLoy.github.io/MULTIMEDIAL/W/index.html) 
