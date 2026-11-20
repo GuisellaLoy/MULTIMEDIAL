@@ -628,7 +628,7 @@ Contacto:
 Bocetos previos:
 
 ![Boceto previo](img/IMG_2754.png)
-![Boceto previo](img/IMG_2754.png)
+![Boceto previo](img/IMG_2755.png)
 
 
 #### ENTREGA
