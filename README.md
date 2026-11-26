@@ -668,15 +668,15 @@ Bocetos de ideas previas:
 
 Programa - Ejercicio 1:
 ![Boceto previo](<img/Captura de pantalla 2026-11-25 135344.png>)
-![Boceto previo]()
+![Boceto previo](<img/Captura de pantalla 2026-11-25 135546.png>)
 
 Programa - Ejercicio 2:
-![Boceto previo]()
-![Boceto previo]()
+![Boceto previo](< >)
+![Boceto previo](<  >)
 
 Programa - Ejercicio 3:
-![Boceto previo]()
-![Boceto previo]()
+![Boceto previo](<  >)
+![Boceto previo](<  >)
 
 
 #### ENTREGA
