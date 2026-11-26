@@ -656,7 +656,7 @@ Visualizaciones:
 
 Visualizaciones:
 
-![Boceto previo](<.   >)
+![Boceto previo](<img/Captura de pantalla 2026-11-25 141121.png>)
 ![Boceto previo](<.  >)
 
 
