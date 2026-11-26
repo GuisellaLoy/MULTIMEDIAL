@@ -652,6 +652,16 @@ Visualizaciones:
 ### Unidad II. [Programación visual creativa basada en nodos]II: 
 ### Programación visual creativa basada en nodos. 
 
+### Ejercicio breve de Mapping
+
+Visualizaciones:
+
+![Boceto previo](<.   >)
+![Boceto previo](<.  >)
+
+
+- Carpeta: [Archivo] ()
+
 ### Touchdesigner - Lsystem
 
 Visualizaciones:
