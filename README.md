@@ -645,8 +645,8 @@ Contacto:
 
 Visualizaciones:
 
-![Boceto previo](img/Captura de pantalla 2026-11-25 135121.png)
-![Boceto previo](img/Captura de pantalla 2026-11-25 135620.png)
+![Boceto previo](img/Capturadepantalla2026-11-25135121.png)
+![Boceto previo](img/Capturadepantalla2026-11-25135620.png)
 
 
 ### Unidad II. [Programación visual creativa basada en nodos]II: 
