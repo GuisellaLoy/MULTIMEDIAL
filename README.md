@@ -692,6 +692,17 @@ Programa - Ejercicio 4 - Seleccionado para entrega final
 ![Boceto previo](<img/Captura de pantalla 2026-11-25 140124.png>)
 [Resultado](https://drive.google.com/file/d/1oZtHgTqHal-npaWdMGT9z8tuOfjBgdD_/view?usp=drivesdk) 
 
+#### COMFY
+
+PROMT:
+
+Bocetos de montaje con ia:
+
+![Boceto previo](<.   >)
+![Boceto previo](<.   >)
+![Boceto previo](<.    >)
+![Boceto previo](<.  >)
+
 #### ENTREGA
 
 - Carpeta 1: [Desarrollo técnico](https://drive.google.com/drive/folders/1uITbzPT7acqZKZbtXDkI69XUZxU-1WL3)
