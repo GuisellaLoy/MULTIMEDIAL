@@ -693,6 +693,7 @@ Programa - Ejercicio 4 - Seleccionado para entrega final
 [Resultado](https://drive.google.com/file/d/1oZtHgTqHal-npaWdMGT9z8tuOfjBgdD_/view?usp=drivesdk) 
 
 #### IA COMFY
+```js
 
 PROMT: “Instalación inmersiva de videomapping en una sala de galería de arte tipo "caja negra" completamente a oscuras. En un solo proyector se mapea en todo el espacio, es fluido y expansivo solo en la pared, liberándose de una retícula rígida. Escenarios unidos abstractos fusionados, pero superpuestos y cambiantes, son amplios y extensos, combinándose a la perfección.
 Estos patrones geometricos, psicodelico, se basan e incorporan formas geométricas aleatorias, trazos de líneas finas, curvas orgánicas y colores neón vibrantes y contrastantes (azul eléctrico, rosa fuerte, verde lima, amarillo brillante), pero a gran escala y con fluidez. Por ejemplo, un vasto campo de formas azules y negras complejas y arremolinadas con un fino sombreado de líneas se fusiona con un área adyacente de formas expansivas y pulsantes de color rosa fuerte. Una tercera área, más ancha. Solo en las paredes están con la proyección, nada en el suelo. Las formas son geometricas, de forma modular. Abstraccion geometrica, modular, sistematizada en una reticula, no tan organicas, deben tener un orden”.
