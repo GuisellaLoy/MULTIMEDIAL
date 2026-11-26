@@ -702,7 +702,7 @@ Bocetos de montaje con ia:
 ![Boceto previo](img/IMG_2951.png)
 ![Boceto previo](img/IMG_2954.png)
 ![Boceto previo](img/IMG_2955.png)
-![Boceto previo](<.  >)
+![Boceto previo](img/IMG_2956.png)
 
 #### ENTREGA
 
