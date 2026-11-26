@@ -667,7 +667,7 @@ Bocetos de ideas previas:
 ![Boceto previo](img/IMG_2755.png)
 
 Programa - Ejercicio 1:
-![Boceto previo]()
+![Boceto previo](<img/Captura de pantalla 2026-11-25 135344.png>)
 ![Boceto previo]()
 
 Programa - Ejercicio 2:
