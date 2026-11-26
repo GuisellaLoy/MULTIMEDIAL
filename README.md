@@ -699,7 +699,7 @@ Estos patrones geometricos, psicodelico, se basan e incorporan formas geométric
 
 Bocetos de montaje con ia:
 
-![Boceto previo](<.   >)
+![Boceto previo](img/IMG_2951.png)
 ![Boceto previo](<.   >)
 ![Boceto previo](<.    >)
 ![Boceto previo](<.  >)
