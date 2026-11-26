@@ -656,19 +656,32 @@ Visualizaciones:
 
 Visualizaciones:
 
+![Boceto previo](img/Captura_de_pantalla_2026-11-25_135206.png)
+![Boceto previo]()
 
-#### PROCESO
+#### PROCESO DE EXPERIMENTACIÓN 
 
-Bocetos previos:
+Bocetos de ideas previas:
 
 ![Boceto previo](img/IMG_2754.png)
 ![Boceto previo](img/IMG_2755.png)
+
+Programa - Ejercicio 1:
+![Boceto previo]()
+![Boceto previo]()
+
+Programa - Ejercicio 2:
+![Boceto previo]()
+![Boceto previo]()
+
+Programa - Ejercicio 3:
+![Boceto previo]()
+![Boceto previo]()
 
 
 #### ENTREGA
 
 - Carpeta 1: [Desarrollo técnico](https://drive.google.com/drive/folders/1uITbzPT7acqZKZbtXDkI69XUZxU-1WL3)
-
 
 - Carpeta 2: [Experimentación](https://drive.google.com/drive/folders/1uITbzPT7acqZKZbtXDkI69XUZxU-1WL3)
 
