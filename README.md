@@ -672,7 +672,7 @@ Programa - Ejercicio 1:
 
 Programa - Ejercicio 2:
 ![Boceto previo](<img/Captura de pantalla 2026-11-25 135725.png>)
-![Boceto previo](<  >)
+![Boceto previo](<img/Captura de pantalla 2026-11-25 135745.png>)
 
 Programa - Ejercicio 3:
 ![Boceto previo](<  >)
