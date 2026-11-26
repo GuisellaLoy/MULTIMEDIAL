@@ -656,7 +656,7 @@ Visualizaciones:
 
 Visualizaciones:
 
-![Boceto previo](img/Captura_de_pantalla_2026-11-25_135206.png)
+![Boceto previo](<img/Captura_de_pantalla_2026-11-25_135206.png>)
 ![Boceto previo]()
 
 #### PROCESO DE EXPERIMENTACIÓN 
