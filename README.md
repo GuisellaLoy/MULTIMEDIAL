@@ -645,7 +645,7 @@ Contacto:
 
 Visualizaciones:
 
-![Boceto previo](img/Capturadepantalla2026-11-25135121.png)
+![Boceto previo](img/Captura_de_pantalla_2026-11-25135121.png)
 ![Boceto previo]()
 
 
