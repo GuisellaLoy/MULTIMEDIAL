@@ -679,7 +679,8 @@ Programa - Ejercicio 3:
 ![Boceto previo](<img/Captura de pantalla 2026-11-25 135827.png>)
 
 Programa - Ejercicio 4 - Seleccionado para entrega final
-![Boceto previo](<    >)
+![Boceto previo](<img/Captura de pantalla 2026-11-25 140124.png>)
+[Resultado]() 
 
 #### ENTREGA
 
