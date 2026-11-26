@@ -638,11 +638,23 @@ Obras:
 Contacto:
 ![Boceto previo](img/IMG_2900.jpeg)
 
-- PÁGINA WEB: [¡¡¡Para una mejor experiencia!!!](https://GuisellaLoy.github.io/MULTIMEDIAL/W/index.html) 
+- PÁGINA WEB: [¡¡¡Para una mejor experiencia!!!](https://GuisellaLoy.github.io/MULTIMEDIAL/W/index.html)
+
+### Inicios en touchdesigner
+### Ejercicio Point
+
+Visualizaciones:
+
+
 
 
 ### Unidad II. [Programación visual creativa basada en nodos]II: 
 ### Programación visual creativa basada en nodos. 
+
+### Touchdesigner - Lsystem
+
+Visualizaciones:
+
 
 #### PROCESO
 
