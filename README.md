@@ -680,7 +680,7 @@ Programa - Ejercicio 3:
 
 Programa - Ejercicio 4 - Seleccionado para entrega final
 ![Boceto previo](<img/Captura de pantalla 2026-11-25 140124.png>)
-[Resultado]() 
+[Resultado](https://drive.google.com/file/d/1oZtHgTqHal-npaWdMGT9z8tuOfjBgdD_/view?usp=drivesdk) 
 
 #### ENTREGA
 
