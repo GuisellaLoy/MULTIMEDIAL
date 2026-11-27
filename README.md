@@ -9,6 +9,8 @@
 #### INDICE
 
 
+## ÍNDICE
+
 1. [UNIDAD I](#unidad-i)
    * [Ejercicio 1 - Semana 1](#ejercicio-1---semana-1)
    * [Mi primera página web](#mi-primera-página-web)
@@ -20,6 +22,7 @@
    * [Proceso de experimentación](#proceso-de-experimentación)
    * [IA ComfyUI](#ia-comfyui)
 3. [ENTREGA](#entrega)
+
 
 #### UNIDAD I
 
