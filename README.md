@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="IMG_2962.gif" alt="Vista previa" width="600" />
-</p>
+<img src="img/IMG_2962.gif" alt="Vista previa" width="600"/>
 
 
 # MULTIMEDIAL
