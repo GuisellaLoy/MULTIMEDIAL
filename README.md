@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="IMG_2962.gif" alt="Vista previa" width="600" />
+</p>
+
+
 # MULTIMEDIAL
 #### Exploración creativa de arte, tecnología y medios digitales interactivos.
 
